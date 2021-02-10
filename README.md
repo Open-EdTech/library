@@ -1,0 +1,1 @@
+All content in the library can be modified and used commercially. Go to the source repository by clicking on one of the links in a configuration to see the specific license for the content.
