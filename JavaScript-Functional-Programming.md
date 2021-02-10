@@ -1,4 +1,4 @@
-# Professor Frisby's Mostly Adequate Guide to Functional Programming
+# Guide to Functional Programming
 
 * [Chapter 01: What Ever Are We Doing?](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch01.md)
 * [Chapter 02: First Class Functions](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch02.md)
